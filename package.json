@@ -1,7 +1,7 @@
 {
-  "name": "backend-base",
+  "name": "water-agent",
   "version": "1.0.0",
-  "description": "backend-template",
+  "description": "Servicio water-agent — equipo Core",
   "main": "app.ts",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/app.ts",
